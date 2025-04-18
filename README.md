@@ -117,11 +117,6 @@ It was an enriching experience that honed my Python skills and deepened my under
 
 ---
 
-## 🔗 Project Files
-
-- 📁 `EDA-on-youtube-dislike-dataset.ipynb`
-
----
 
 ## 🙌 Acknowledgements
 
@@ -130,8 +125,4 @@ It was an enriching experience that honed my Python skills and deepened my under
 
 ---
 
-## 💬 Let’s Connect
 
-If you're passionate about **data analysis**, **Python**, **social media insights**, or simply want to chat about this project—I'm open to connections!
-
-📧 Feel free to reach out or drop feedback!
